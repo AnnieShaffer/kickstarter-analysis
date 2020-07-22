@@ -8,6 +8,9 @@ The purpose of this analysis is to advise Louise if she should continue her Kick
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+Louise is looking to determine when she should launch her play *Fever* based on the outcomes of other Kickstarter campaigns successfulness based on Launch Date. 
+In order to advise Louise when she should launch her play, I created a pivot table that shows the data of all theater Kickstarters based on the dates of when they were launched. I then created line graph to display which months have been historically more successful for plays.
+![Theater Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
