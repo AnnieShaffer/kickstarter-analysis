@@ -20,14 +20,14 @@ Additionally I was not able to mirror the pivot table shown in Deliverable 1 Ste
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  _One conclusion we can draw from the data regarding the launch date is that the greatest number of successful outcomes occur in May of each year.
-  _The second conclusion we can draw from this data set is that the number of successful and failed outcomes are almost equal in the month of December each year.
+  - One conclusion we can draw from the data regarding the launch date is that the greatest number of successful outcomes occur in May of  each year.
+  - The second conclusion we can draw from this data set is that the number of successful and failed outcomes are almost equal in the month of December each year.
 
 - What can you conclude about the Outcomes based on Goals?
-We can conclude that the KickStarter Campaigns that are more likely to be successful for theaters have a goal between $0 and $19999 and $35000 and $44999. However, the campaigns with higher goals have a much smaller sample size.
+  - We can conclude that the KickStarter Campaigns that are more likely to be successful for theaters have a goal between $0 and $19999 and $35000 and $44999. However, the campaigns with higher goals have a much smaller sample size.
 
 - What are some limitations of this dataset?
-Some of the limitations of this data set are that the population size of KickStarters decrease as the goals and pledges of the campaigns increase in dollar amount. This creates data that may be skewed as there is not as much data for these sets. Additionally, there are not an equal number KickStarters each year. This could leave out important data based on the economy at the time of the KickStarter. Campaigns closer to the Great Recession will have much different data than those in more recent years when economies have been much more stable.
+  - Some of the limitations of this data set are that the population size of KickStarters decrease as the goals and pledges of the campaigns increase in dollar amount. This creates data that may be skewed as there is not as much data for these sets. Additionally, there are not an equal number KickStarters each year. This could leave out important data based on the economy at the time of the KickStarter. Campaigns closer to the Great Recession will have much different data than those in more recent years when economies have been much more stable.
 
 - What are some other possible tables and/or graphs that we could create?
 
