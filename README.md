@@ -12,8 +12,10 @@ The purpose of this analysis is to advise Louise if she should continue her Kick
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
-One of the challenges I encountered while analyzing this data set occurred while completing the steps in the analysis of the Outcomes Based on Goals data. The outcome did not populate the same as the example shown in the challenge because I used the column for "pledged" (Column E) instead of "goals" (Column D).
-An additional challenge that occured during this analysis was that I was not able to mirror the pivot table shown in Deliverable 1 Step 10. This caused great confusion and I was stuck on this step for quite a while until I read the next step, which did mirror my pivot table. This error may have occurred because I am using the newest version of Excel (Excel 2019) and the screenshots are from older versions of the program.
+#### Challenge One
+My first challenge with this data occurred while completing the steps in the analysis of the Outcomes Based on Goals. The outcome did not populate the same as the example shown in the challenge because I used the column for "pledged" (Column E) instead of "goals" (Column D).
+#### Challenge Two
+Additionally I was not able to mirror the pivot table shown in Deliverable 1 Step 10. This caused great confusion and I was stuck on this step for quite a while until I read the next step, which did mirror my pivot table. This error may have occurred because I am using the newest version of Excel (Excel 2019) and the screenshots are from older versions of the program.
 
 ## Results
 
