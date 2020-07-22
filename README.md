@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to advise Louise if she should continue her KickStarter campaign at this time based on the data from other KickStarter campaigns.
+The purpose of this analysis is to advise Louise if she should continue her KickStarter campaign for her play *Fever* at this time based on the data from other KickStarter campaigns.
 
 ## Analysis and Challenges
 
