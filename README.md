@@ -20,8 +20,8 @@ Additionally I was not able to mirror the pivot table shown in Deliverable 1 Ste
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--- One conclusion we can draw from the data regarding the launch date is that the greatest number of successful outcomes occur in May of each year.
-The second conclusion we can draw from this data set is that the number of successful and failed outcomes are almost equal in the month of December each year.
+  -One conclusion we can draw from the data regarding the launch date is that the greatest number of successful outcomes occur in May of each year.
+  -The second conclusion we can draw from this data set is that the number of successful and failed outcomes are almost equal in the month of December each year.
 
 - What can you conclude about the Outcomes based on Goals?
 We can conclude that the KickStarter Campaigns that are more likely to be successful for theaters have a goal between $0 and $19999 and $35000 and $44999. However, the campaigns with higher goals have a much smaller sample size.
