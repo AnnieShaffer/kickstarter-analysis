@@ -16,7 +16,7 @@ This data shows that the month with the highest probability of having a successf
 ### Analysis of Outcomes Based on Goals
 Louise would like to know what the probability of sucess for her play *Fever* based on the goal of her Kickstarter campaign using data on previous Kickstart campaigns.
 To advise Louise what her Kickstarter goal should be, I created a table that displayed the number of successful, failed, and cancelled campaigns based on their fundraising goals. I then calculated the percentage of the outcomes and created a line graph as a visual. 
-![Outcomes vs Goals](https://github.com/AnnieShaffer/kickstarter-analysis/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](https://github.com/AnnieShaffer/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 From this data, it is clear that plays that had goals equal to and below $19999 had the highest rate of success.
 
 ### Challenges and Difficulties Encountered
