@@ -10,13 +10,13 @@ The purpose of this analysis is to advise Louise if she should continue her Kick
 ### Analysis of Outcomes Based on Launch Date
 Louise is looking to determine when she should launch her play *Fever* based on the outcomes of other Kickstarter campaigns successfulness based on Launch Date. 
 In order to advise Louise when she should launch her play, I created a pivot table that shows the data of all theater Kickstarters based on the dates of when they were launched. I then created line graph to display which months have been historically more successful for plays.
-![Theater Outcomes Based on Launch Date](/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Based on Launch Date](AnnieShaffer/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
 This data shows that the month with the highest probability of having a successful launch is May and the month with the lowest probability of a successful launch is December. Additionally, the month of December has an almost equal chance of having a successful or failed launch.
 
 ### Analysis of Outcomes Based on Goals
 Louise would like to know what the probability of sucess for her play *Fever* based on the goal of her Kickstarter campaign using data on previous Kickstart campaigns.
 To advise Louise what her Kickstarter goal should be, I created a table that displayed the number of successful, failed, and cancelled campaigns based on their fundraising goals. I then calculated the percentage of the outcomes and created a line graph as a visual. 
-![Outcomes vs Goals] (/Kickstarter-analysis/Outcomes_vs_Goals.png)
+![Outcomes vs Goals] (AnnieShaffer/kickstarter-analysis/Outcomes_vs_Goals.png)
 From this data, it is clear that plays that had goals equal to and below $19999 had the highest rate of success.
 
 ### Challenges and Difficulties Encountered
