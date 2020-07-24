@@ -8,16 +8,20 @@ The purpose of this analysis is to advise Louise when she should launch her play
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Louise is looking to determine when she should launch her play *Fever* based on the outcomes of other Kickstarter campaigns successfulness based on Launch Date. 
-To advise Louise when she should launch her play, I created a pivot table that shows the data of all theater Kickstarter based on the dates of when they were launched. I then created line graph to display which months have been historically more successful for plays.
+Louise is attempting to determine when she should launch her play *Fever* based on the outcomes of other Kickstarter campaigns successfulness based on Launch Date. 
+To advise Louise when she should launch her play, I created a pivot table that shows the data of all theater Kickstarter campaigns based on the dates of when they were launched. I then created line graph to display which months have been historically more successful for plays.
 This data shows that the month with the highest probability of having a successful launch is May and the month with the lowest probability of a successful launch is December. Additionally, the month of December has an almost equal chance of having a successful or failed launch.
-![Theater Outcomes Based on Launch Date](https://github.com/AnnieShaffer/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
+
+#### Graph
+![Theater Outcomes Based on Launch Date](https://github.com/AnnieShaffer/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Louise would like to know what the probability of success for her play *Fever* based on the goal of her Kickstarter campaign using data on previous Kickstart campaigns.
 To advise Louise what her Kickstarter goal should be, I created a table that displayed the number of successful, failed, and cancelled campaigns for Plays based on their fundraising goals. I then calculated the percentage of the outcomes and created a line graph as a visual. 
 From this data, it is clear that plays that had goals equal to or less than $19999 had the highest rate of success.
-![Outcomes vs Goals](https://github.com/AnnieShaffer/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
+
+#### Graph
+![Outcomes vs Goals](https://github.com/AnnieShaffer/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 #### Challenge One
